@@ -294,6 +294,7 @@
 
 
     @media (max-width: 768px) {
+        .info-card {width: 85%; margin: auto;}
        .custom-card {
         display: flex;
         flex-direction: column;
