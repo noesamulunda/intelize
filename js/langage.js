@@ -26,8 +26,8 @@ const translations = {
         sobrenos: "Sobre Nós",
         sobretexto1: "Somos uma Empresa Certificada pela EMIS como Facilitador Tecnológico de Pagamentos nas Classes PST - SP Classe 1 e 2, passamos pelas Verificações de Segurança e Testes de Utilização realizadas pela EMIS.",
         sobretexto2: "Temos a oferecer uma Plataforma que facilita a Integração ao Sistema de Pagamentos Angolano, a fim de facilitar e optimizar os processos de Pagamentos.",
-        nossasolucao: "Nossas soluções",
-        nossoparceiro: "Nossos parceiros",
+        nossasolucao: "Soluções",
+        nossoparceiro: "Parceiros",
         visitante: "Visitantes",
         vermais:"Ver mais",
         text_desc: "Construimos a melhor Experiência para os nossos Clientes!",
@@ -61,7 +61,8 @@ const translations = {
          noticia:"Últimas Notícias",
          endereco:"Endereço",
          ligue:"Ligue para nós",
-         enviaremail:"Envie-nos um e-mail"
+         enviaremail:"Envie-nos um e-mail",
+         noticiaone: "NOTÍCIAS"
 
       },
       en: {
@@ -92,8 +93,8 @@ const translations = {
         sobrenos: "About Us",
         sobretexto1: "We are a Company Certified by EMIS as a Technological Payment Facilitator in the PST - SP Classes 1 and 2, we have passed the Security Checks and Usage Tests carried out by EMIS.",
         sobretexto2: "We offer a Platform that facilitates Integration into the Angolan Payment System, in order to facilitate and optimize Payment processes.",
-        nossasolucao: "Our solutions",
-         nossoparceiro: "Our partners",
+        nossasolucao: "Solutions",
+         nossoparceiro: "Partners",
         visitante: "Visitors",
         text_desc: "We build the best Experience for our Customers!",
         text_get: "Payment Gateway",
@@ -126,7 +127,8 @@ const translations = {
         noticia:"Latest News",
         endereco:"Address",
          ligue:"Call us",
-         enviaremail:"Send us an email"
+         enviaremail:"Send us an email",
+          noticiaone: "NEWS"
 
 
       }
